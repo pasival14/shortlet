@@ -1,5 +1,3 @@
-This is a great idea\! A well-structured `README.md` is essential for any project. Based on the files you've provided, here's a comprehensive `README.md` that you can use for your project.
-
 # Shortlet - A Short-Term Rental Marketplace
 
 Shortlet is a full-stack web application that provides a platform for users to list, discover, and book short-term rental properties. It is built with a React frontend and a Flask (Python) backend, and it includes features like user authentication, property listings with image uploads, booking management, and an interactive map view.
